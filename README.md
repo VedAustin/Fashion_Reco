@@ -1,5 +1,5 @@
 # Fashion_Reco
-Simple implementation to visualise effectiveness of transfer learning
+Deep Learning: Simple implementation to visualise effectiveness of transfer learning
 
 ### Summary
 A simple script to identify similar images using deep learning api.
